@@ -1,4 +1,6 @@
+""" Simple "Hello world!" program"""
 def hello():
-	print("Hello world!")
+    """ Prints out "Hello world!" """
+    print("Hello world!")
 
 hello()
